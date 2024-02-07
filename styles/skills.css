@@ -1,0 +1,1011 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 150rem;
+}.skills-DzD {
+  width: 100%;
+  height: 153rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #000000;
+}
+.skills-DzD .gravity-ui-abbr-sql-APf {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .gravity-ui-abbr-sql-u6M {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .skills-3CZ {
+  width: 150rem;
+  height: 152rem;
+  position: absolute;
+  left: 0;
+  top: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP {
+  width: 100%;
+  height: 112.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-759e-KA5 {
+  width: 131.9rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-759e-KA5 .gravity-ui-abbr-sql-eTF {
+  margin-right: 10.6rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-759e-KA5 .navbar-a61 {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-759e-KA5 .navbar-a61 .my-brand-Dem {
+  margin-right: 35.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-759e-KA5 .navbar-a61 .home-8mj {
+  margin: 0.3rem 5.9rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-759e-KA5 .navbar-a61 .about-me-EZs {
+  margin-right: 5.9rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #f5f5f5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-759e-KA5 .navbar-a61 .portfolio-wjB {
+  margin-right: 5.9rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-759e-KA5 .navbar-a61 .contact-me-s73 {
+  margin-right: 5.9rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-759e-KA5 .navbar-a61 .login-BdX {
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb {
+  width: 116.4rem;
+  height: 53rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 14.2rem;
+  display: flex;
+  align-items: center;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F {
+  margin: 0.1rem 10.6rem 0rem 0rem;
+  width: 52.9rem;
+  height: 52.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .akar-icons-html-fill-Luj {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 13.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .rectangle-304-sPs {
+  width: 52.9rem;
+  height: 52.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d9d9d9;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .version-control--Qub {
+  width: 16.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 2rem;
+  top: 47.8rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .nosql-7Z7 {
+  width: 6.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 42.5rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .web-application-qED {
+  width: 25.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 2.6rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .front-end-development-building-front-end-part-using-LRs {
+  width: 42.5rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 3rem;
+  top: 11.7rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .logos-html-5-RTK {
+  width: 6.6767rem;
+  height: 6.7828rem;
+  position: absolute;
+  left: 15.6116rem;
+  top: 14.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .logos-css-3-wgZ {
+  width: 6.5771rem;
+  height: 6.7828rem;
+  position: absolute;
+  left: 24.9115rem;
+  top: 14.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .skill-icons-javascript-Giq {
+  width: 5.4rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 34.1rem;
+  top: 15.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .devicon-react-wordmark-CcV {
+  width: 4.4538rem;
+  height: 4.7534rem;
+  position: absolute;
+  left: 42.5731rem;
+  top: 15.3804rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .back-end-development-building-backend-part-using-8FF {
+  width: 46.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 26.7rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .logos-nodejs-2Ld {
+  width: 7.1903rem;
+  height: 5.5839rem;
+  position: absolute;
+  left: 9.6032rem;
+  top: 28.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .simple-icons-express-MNu {
+  width: 5rem;
+  height: 2.495rem;
+  position: absolute;
+  left: 17.9rem;
+  top: 29.3023rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .devicon-plain-django-wordmark-sc9 {
+  width: 10.9rem;
+  height: 2.5505rem;
+  position: absolute;
+  left: 23.9rem;
+  top: 29.6748rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .logos-fastapi-PqP {
+  width: 9.3rem;
+  height: 2.1901rem;
+  position: absolute;
+  left: 37.3rem;
+  top: 29.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .bxl-spring-boot-j8Z {
+  width: 4.8467rem;
+  height: 3.5051rem;
+  position: absolute;
+  left: 21.4833rem;
+  top: 32.8449rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .database--riy {
+  width: 10.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 37.6rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .sql-xn1 {
+  width: 4.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 13.4rem;
+  top: 38.9rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .logos-mysql-sty {
+  width: 10.8rem;
+  height: 3.2966rem;
+  position: absolute;
+  left: 23.9rem;
+  top: 38.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .logos-mongodb-CwF {
+  width: 9.1rem;
+  height: 3.574rem;
+  position: absolute;
+  left: 24.1rem;
+  top: 41.5rem;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .logos-mongodb-CwF .vector-vsF {
+  margin: 0rem 0.514rem 0.27rem 0rem;
+  width: 1.0283rem;
+  height: 3.3041rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .logos-mongodb-CwF .vector-f49 {
+  width: 7.5576rem;
+  height: 2.4299rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-jcd2-T5F .skill-icons-git-oAM {
+  width: 7.9rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 20.2rem;
+  top: 45.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding: 3.5rem 2.3rem 0.6rem 2.3rem;
+  width: 52.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .data-analytics-SDK {
+  margin: 0rem 4.1rem 3.5rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-mhbz-kzh {
+  margin: 0rem 13rem 2.857rem 0.4rem;
+  width: calc(100% - 13.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-mhbz-kzh .programming-language--HUq {
+  margin: 0rem 4rem 0.9rem 0rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-mhbz-kzh .skill-icons-python-light-oCH {
+  width: 6.8rem;
+  height: 5.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-a1h6-X8H {
+  margin: 0rem 4rem 2.103rem 0.2rem;
+  width: calc(100% - 4.2rem);
+  height: 7.2399rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-a1h6-X8H .auto-group-u7qv-EoP {
+  margin: 0.043rem 1.8rem 0rem 0rem;
+  width: 32.3rem;
+  height: calc(100% - 0.0428rem);
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-a1h6-X8H .auto-group-u7qv-EoP .data-manipulation-and-analysis--N8u {
+  margin-bottom: 0.1029rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-a1h6-X8H .auto-group-u7qv-EoP .auto-group-rfcy-Uhj {
+  margin: 0rem 11.249rem 0rem 3.1rem;
+  width: calc(100% - 14.349rem);
+  display: flex;
+  align-items: flex-end;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-a1h6-X8H .auto-group-u7qv-EoP .auto-group-rfcy-Uhj .devicon-pandas-wordmark-QbP {
+  margin-right: 4.449rem;
+  width: 10.7rem;
+  height: 4.5942rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-a1h6-X8H .auto-group-u7qv-EoP .auto-group-rfcy-Uhj .vscode-icons-file-type-sql-Xvu {
+  margin-bottom: 0.0033rem;
+  width: 2.8021rem;
+  height: 4.2875rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-a1h6-X8H .devicon-plain-numpy-wordmark-G7o {
+  width: 10rem;
+  height: 3.0856rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-9kp6-bA5 {
+  margin: 0rem 8.592rem 1.32rem 0.4rem;
+  width: calc(100% - 8.9921rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-9kp6-bA5 .data-visualisation--78R {
+  margin: 0rem 2.492rem 0.08rem 0rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-9kp6-bA5 .devicon-matplotlib-wordmark-ED3 {
+  width: 18.1158rem;
+  height: 2.1316rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-zvzt-N4M {
+  margin: 0rem 4rem 2.415rem 3.2rem;
+  width: calc(100% - 7.2001rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-zvzt-N4M .logos-seaborn-hMX {
+  margin-right: 3.3rem;
+  width: 15.0999rem;
+  height: 3.5727rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-zvzt-N4M .logos-tableau-EMT {
+  margin-top: 1.3rem;
+  width: 22.7rem;
+  height: 3.7846rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-v2v2-Mws {
+  margin: 0rem 8.6rem 0.086rem 0.4rem;
+  width: calc(100% - 9rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-v2v2-Mws .machine-learning-tools--VYH {
+  margin-right: 2.5rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-v2v2-Mws .logos-pytorch-pqT {
+  margin-top: 0.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-v2v2-Mws .logos-pytorch-pqT .vector-Nc5 {
+  margin: 0.04rem 0.971rem 0rem 0rem;
+  width: 1.9555rem;
+  height: 2.199rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-v2v2-Mws .logos-pytorch-pqT .vector-6ny {
+  width: 10.0735rem;
+  height: 2.9808rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-ulvi-FA5 {
+  margin: 0rem 4rem 0.724rem 3.6rem;
+  width: calc(100% - 7.6004rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-ulvi-FA5 .devicon-scikitlearn-NkV {
+  margin: 0rem 7.302rem 1.143rem 0rem;
+  width: 13.9974rem;
+  height: 4.3662rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .auto-group-ulvi-FA5 .devicon-hadoop-wordmark-tyj {
+  width: 19.4rem;
+  height: 1.7523rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-56te-XBb .auto-group-yrfn-Xs3 .big-data-technologies--qPB {
+  margin-right: 26rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-kucg-XvD {
+  box-sizing: border-box;
+  padding: 0.7rem 0.8rem 12.7rem 0.8rem;
+  width: 67.8rem;
+  height: 41.5rem;
+  position: absolute;
+  left: 36.8rem;
+  top: 71.1rem;
+  background-color: #d9d9d9;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-kucg-XvD .artificial-intelligence-CFf {
+  margin: 0rem 0rem 1.9rem 15.8rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-kucg-XvD .auto-group-3zsl-JpV {
+  height: 6.3rem;
+  display: flex;
+  align-items: center;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-kucg-XvD .auto-group-3zsl-JpV .machine-learning-frameworks--FUq {
+  margin: 0rem 0.6rem 1.4rem 0rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-kucg-XvD .auto-group-3zsl-JpV .skill-icons-scikitlearn-light-x8M {
+  margin-right: 4.8rem;
+  width: 13.1rem;
+  height: 6.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-kucg-XvD .auto-group-3zsl-JpV .logos-pytorch-tGu {
+  margin: 0.9rem 0rem 0.929rem 0rem;
+  height: calc(100% - 1.8288rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-kucg-XvD .auto-group-3zsl-JpV .logos-pytorch-tGu .vector-D4H {
+  margin: 0.06rem 0.837rem 0rem 0rem;
+  width: 1.6847rem;
+  height: 3.2985rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-kucg-XvD .auto-group-3zsl-JpV .logos-pytorch-tGu .vector-Leh {
+  width: 8.6787rem;
+  height: 4.4712rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-kucg-XvD .auto-group-yetn-HZw {
+  margin: 0rem 0rem 2.8rem 0.2rem;
+  display: flex;
+  align-items: center;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-kucg-XvD .auto-group-yetn-HZw .deep-learning--RRF {
+  margin: 0rem 1.4rem 2.8rem 0rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-kucg-XvD .auto-group-yetn-HZw .neural-network-1-kTX {
+  margin-right: 2.9rem;
+  width: 13rem;
+  height: 10.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-kucg-XvD .auto-group-yetn-HZw .convolutional-neural-networks-gc5 {
+  margin-bottom: 2.6rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .auto-group-kucg-XvD .natural-language-processing--zsf {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .what-were-best-in-j4Z {
+  width: 22rem;
+  height: 3rem;
+  position: absolute;
+  left: 58.5rem;
+  top: 5.9rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.skills-DzD .skills-3CZ .auto-group-p1sk-aTP .machine-learning-DkR {
+  width: 28.4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 57.1rem;
+  top: 67.2rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 {
+  box-sizing: border-box;
+  padding: 7.4rem 0rem 2.8rem 0rem;
+  width: 100%;
+  height: 39.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM {
+  margin-bottom: 1.4rem;
+  box-sizing: border-box;
+  padding: 0rem 5.7rem 0rem 1.1rem;
+  width: 100%;
+  height: 24.8rem;
+  display: flex;
+  align-items: flex-end;
+  border: solid 0.4rem #34b759;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR {
+  margin: 0rem 4.1rem 0.3rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-4uT {
+  margin-bottom: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-4uT .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-4uT-sub-0 {
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-4uT .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-4uT-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-4uT .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-4uT-sub-2 {
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-4uT .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-4uT-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK {
+  margin: 0rem 0rem 3.7rem 0.5rem;
+  height: 10.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK .auto-group-waza-M9o {
+  box-sizing: border-box;
+  padding: 0.8rem 11.2rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK .auto-group-waza-M9o .my-brand-V17 {
+  margin: 0.1rem 24.7rem 0rem 0rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK .auto-group-waza-M9o .auto-group-mrxx-DC1 {
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK .auto-group-waza-M9o .auto-group-mrxx-DC1 .skill-icons-linkedin-kSq {
+  width: 7.5rem;
+  height: 6.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK .auto-group-waza-M9o .auto-group-mrxx-DC1 .linkedin-6Wh {
+  margin-right: 0.2rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK .auto-group-waza-M9o .auto-group-mrxx-DC1 .linkedin-6Wh .linkedin-6Wh-sub-0 {
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK .auto-group-waza-M9o .auto-group-mrxx-DC1 .linkedin-6Wh .linkedin-6Wh-sub-1 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #0072c6;
+  font-family: Inter, 'Source Sans Pro';
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK .auto-group-uxhz-6QD {
+  margin-right: 8.3rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK .auto-group-uxhz-6QD .auto-group-au7s-SDB {
+  margin: 0rem 0.036rem 0.219rem 0rem;
+  width: 7.0643rem;
+  height: 7.5813rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK .auto-group-uxhz-6QD .outlook-Z2u {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK .auto-group-fefw-6Hj {
+  margin: 0.8rem 0rem 0.5rem 0rem;
+  height: calc(100% - 1.3rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK .auto-group-fefw-6Hj .vector-QpD {
+  margin-right: 0.0376rem;
+  width: 6.2624rem;
+  height: 6.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-b9ve-2dK .auto-group-fefw-6Hj .twitter-YvR {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-rpgp-gmj {
+  margin-left: 4.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-rpgp-gmj .mdi-email-E2Z {
+  margin: 0rem 0.3rem 0.5rem 0rem;
+  width: 4.3rem;
+  height: 4.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-rpgp-gmj .engplaubertgmailcom-wxZ {
+  margin: 1.6rem 31.2rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-rpgp-gmj .ion-call-sharp-Tvu {
+  margin: 0rem 0.3rem 0.688rem 0rem;
+  width: 3.6rem;
+  height: 3.9124rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-fl2q-YAR .auto-group-rpgp-gmj .item-250783881477-b1X {
+  margin-top: 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-7vag-uH7 {
+  margin: 7.4rem 24.4rem 9.1rem 0rem;
+  height: calc(100% - 16.5rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-7vag-uH7 .vector-pus {
+  margin-bottom: 0.5rem;
+  width: 6.2rem;
+  height: 5.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-7vag-uH7 .github-M97 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .auto-group-su5z-gx5 {
+  margin-bottom: 1rem;
+  width: 4.2rem;
+  height: 3.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .auto-group-wcon-dJM .rwanda-pYV {
+  margin-bottom: 1.1rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.skills-DzD .skills-3CZ .footer-page-v93 .plaubert-all-rights-reserved-itm {
+  margin-right: 20.3rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

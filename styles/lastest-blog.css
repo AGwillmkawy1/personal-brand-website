@@ -1,0 +1,766 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 148.9rem;
+}.lastest-blog-ytR {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.lastest-blog-ytR .auto-group-alkn-XQ9 {
+  box-sizing: border-box;
+  padding-bottom: 1.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .auto-group-alkn-XQ9 .uiw-like-o-Gcd {
+  margin-bottom: 0.4rem;
+  width: 1.9001rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .auto-group-alkn-XQ9 .navbar-nay {
+  margin: 0rem 19.3rem 0rem 9.9rem;
+  width: calc(100% - 29.2rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .auto-group-alkn-XQ9 .navbar-nay .my-brand-6bf {
+  margin-right: 35.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .auto-group-alkn-XQ9 .navbar-nay .home-1yX {
+  margin: 0.3rem 5.9rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .auto-group-alkn-XQ9 .navbar-nay .about-me-XBB {
+  margin-right: 5.9rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #f5f5f5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .auto-group-alkn-XQ9 .navbar-nay .portfolio-qxZ {
+  margin-right: 5.9rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .auto-group-alkn-XQ9 .navbar-nay .contact-me-ZtZ {
+  margin-right: 5.9rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .auto-group-alkn-XQ9 .navbar-nay .login-ziy {
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .middle-LH3 {
+  margin-bottom: 14.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .middle-LH3 .latest-blog-gbo {
+  margin-bottom: 4.8963rem;
+  width: 100%;
+  height: 92.2037rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .middle-LH3 .latest-blog-gbo .bash-scripting-1-pT7 {
+  width: 148.9rem;
+  height: 44.4013rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.lastest-blog-ytR .middle-LH3 .latest-blog-gbo .latest-updated-on-january-4th-2024-at-01-07pm-LRT {
+  width: 48.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 53.7694rem;
+  top: 46.4004rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lastest-blog-ytR .middle-LH3 .latest-blog-gbo .for-developers-RC1 {
+  width: 14.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 19.7499rem;
+  top: 53.6604rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lastest-blog-ytR .middle-LH3 .latest-blog-gbo .advanced-bash-scripting-mastering-functions-and-libraries-XF3 {
+  width: 95.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 19.7499rem;
+  top: 59.1316rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lastest-blog-ytR .middle-LH3 .latest-blog-gbo .bash-scripting-is-a-powerful-skill-that-allows-system-administrators-and-developers-to-automate-tasks-streamline-workflows-and-enhance-productivity-while-an-understanding-of-basic-bash-scripting-is-essential-mastering-advanced-concepts-like-functions-and-libraries-takes-your-scripting-abilities-to-a-whole-new-level-in-this-blog-post-well-explore-the-complexity-of-advanced-bash-scripting-focusing-on-functions-and-libraries-functions-the-building-blocks-of-bash-scripts-if-youre-a-developer-using-advanced-bash-scripting-you-probably-know-how-tedious-it-can-be-to-copy-and-paste-chunks-of-code-fragments-over-and-over-again-bash-functions-are-blocks-of-code-that-you-can-create-and-reuse-in-scripts-any-time-you-want-these-reusable-blocks-of-code-enable-you-to-modularize-your-scripts-and-enhance-code-maintainability-oTT {
+  width: 117rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 19.7499rem;
+  top: 74.7037rem;
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lastest-blog-ytR .middle-LH3 .latest-blog-gbo .bash-scripting-is-a-powerful-skill-that-allows-system-administrators-and-developers-to-automate-tasks-streamline-workflows-and-enhance-productivity-while-an-understanding-of-basic-bash-scripting-is-essential-mastering-advanced-concepts-like-functions-and-libraries-takes-your-scripting-abilities-to-a-whole-new-level-in-this-blog-post-well-explore-the-complexity-of-advanced-bash-scripting-focusing-on-functions-and-libraries-functions-the-building-blocks-of-bash-scripts-if-youre-a-developer-using-advanced-bash-scripting-you-probably-know-how-tedious-it-can-be-to-copy-and-paste-chunks-of-code-fragments-over-and-over-again-bash-functions-are-blocks-of-code-that-you-can-create-and-reuse-in-scripts-any-time-you-want-these-reusable-blocks-of-code-enable-you-to-modularize-your-scripts-and-enhance-code-maintainability-oTT .bash-scripting-is-a-powerful-skill-that-allows-system-administrators-and-developers-to-automate-tasks-streamline-workflows-and-enhance-productivity-while-an-understanding-of-basic-bash-scripting-is-essential-mastering-advanced-concepts-like-functions-and-libraries-takes-your-scripting-abilities-to-a-whole-new-level-in-this-blog-post-well-explore-the-complexity-of-advanced-bash-scripting-focusing-on-functions-and-libraries-functions-the-building-blocks-of-bash-scripts-if-youre-a-developer-using-advanced-bash-scripting-you-probably-know-how-tedious-it-can-be-to-copy-and-paste-chunks-of-code-fragments-over-and-over-again-bash-functions-are-blocks-of-code-that-you-can-create-and-reuse-in-scripts-any-time-you-want-these-reusable-blocks-of-code-enable-you-to-modularize-your-scripts-and-enhance-code-maintainability-oTT-sub-0 {
+}
+.lastest-blog-ytR .middle-LH3 .latest-blog-gbo .bash-scripting-is-a-powerful-skill-that-allows-system-administrators-and-developers-to-automate-tasks-streamline-workflows-and-enhance-productivity-while-an-understanding-of-basic-bash-scripting-is-essential-mastering-advanced-concepts-like-functions-and-libraries-takes-your-scripting-abilities-to-a-whole-new-level-in-this-blog-post-well-explore-the-complexity-of-advanced-bash-scripting-focusing-on-functions-and-libraries-functions-the-building-blocks-of-bash-scripts-if-youre-a-developer-using-advanced-bash-scripting-you-probably-know-how-tedious-it-can-be-to-copy-and-paste-chunks-of-code-fragments-over-and-over-again-bash-functions-are-blocks-of-code-that-you-can-create-and-reuse-in-scripts-any-time-you-want-these-reusable-blocks-of-code-enable-you-to-modularize-your-scripts-and-enhance-code-maintainability-oTT .bash-scripting-is-a-powerful-skill-that-allows-system-administrators-and-developers-to-automate-tasks-streamline-workflows-and-enhance-productivity-while-an-understanding-of-basic-bash-scripting-is-essential-mastering-advanced-concepts-like-functions-and-libraries-takes-your-scripting-abilities-to-a-whole-new-level-in-this-blog-post-well-explore-the-complexity-of-advanced-bash-scripting-focusing-on-functions-and-libraries-functions-the-building-blocks-of-bash-scripts-if-youre-a-developer-using-advanced-bash-scripting-you-probably-know-how-tedious-it-can-be-to-copy-and-paste-chunks-of-code-fragments-over-and-over-again-bash-functions-are-blocks-of-code-that-you-can-create-and-reuse-in-scripts-any-time-you-want-these-reusable-blocks-of-code-enable-you-to-modularize-your-scripts-and-enhance-code-maintainability-oTT-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lastest-blog-ytR .middle-LH3 .latest-blog-gbo .bash-scripting-is-a-powerful-skill-that-allows-system-administrators-and-developers-to-automate-tasks-streamline-workflows-and-enhance-productivity-while-an-understanding-of-basic-bash-scripting-is-essential-mastering-advanced-concepts-like-functions-and-libraries-takes-your-scripting-abilities-to-a-whole-new-level-in-this-blog-post-well-explore-the-complexity-of-advanced-bash-scripting-focusing-on-functions-and-libraries-functions-the-building-blocks-of-bash-scripts-if-youre-a-developer-using-advanced-bash-scripting-you-probably-know-how-tedious-it-can-be-to-copy-and-paste-chunks-of-code-fragments-over-and-over-again-bash-functions-are-blocks-of-code-that-you-can-create-and-reuse-in-scripts-any-time-you-want-these-reusable-blocks-of-code-enable-you-to-modularize-your-scripts-and-enhance-code-maintainability-oTT .bash-scripting-is-a-powerful-skill-that-allows-system-administrators-and-developers-to-automate-tasks-streamline-workflows-and-enhance-productivity-while-an-understanding-of-basic-bash-scripting-is-essential-mastering-advanced-concepts-like-functions-and-libraries-takes-your-scripting-abilities-to-a-whole-new-level-in-this-blog-post-well-explore-the-complexity-of-advanced-bash-scripting-focusing-on-functions-and-libraries-functions-the-building-blocks-of-bash-scripts-if-youre-a-developer-using-advanced-bash-scripting-you-probably-know-how-tedious-it-can-be-to-copy-and-paste-chunks-of-code-fragments-over-and-over-again-bash-functions-are-blocks-of-code-that-you-can-create-and-reuse-in-scripts-any-time-you-want-these-reusable-blocks-of-code-enable-you-to-modularize-your-scripts-and-enhance-code-maintainability-oTT-sub-2 {
+}
+.lastest-blog-ytR .middle-LH3 .latest-blog-gbo .by-milagros-ribas-january-3-2024-2min-Wgd {
+  width: 43.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 19.7499rem;
+  top: 67.4437rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lastest-blog-ytR .middle-LH3 .auto-group-tcqz-nu3 {
+  margin: 0rem 51.42rem 0rem 72.56rem;
+  width: calc(100% - 123.9803rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .middle-LH3 .auto-group-tcqz-nu3 .simple-line-icons-like-uyf {
+  margin-right: 5.3565rem;
+  width: 5.5665rem;
+  height: 4.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .middle-LH3 .auto-group-tcqz-nu3 .simple-line-icons-dislike-STo {
+  margin-right: 4.9633rem;
+  width: 4.8641rem;
+  height: 4.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .middle-LH3 .auto-group-tcqz-nu3 .iconamoon-comment-bold-NMT {
+  width: 4.1692rem;
+  height: 4.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed {
+  width: 150rem;
+  height: 39.4rem;
+  position: relative;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .rectangle-299-oxZ {
+  width: 150rem;
+  height: 24.8rem;
+  position: absolute;
+  left: 0;
+  top: 7.4rem;
+  border: solid 0.4rem #34b759;
+  box-sizing: border-box;
+  background-color: #000000;
+}
+.lastest-blog-ytR .footer-page-hed .rwanda-jLR {
+  width: 9.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 134.7rem;
+  top: 28.1rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lastest-blog-ytR .footer-page-hed .linkedin-3M7 {
+  width: 8.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 45.9rem;
+  top: 20.9rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.lastest-blog-ytR .footer-page-hed .linkedin-3M7 .linkedin-3M7-sub-0 {
+}
+.lastest-blog-ytR .footer-page-hed .linkedin-3M7 .linkedin-3M7-sub-1 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #0072c6;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lastest-blog-ytR .footer-page-hed .skill-icons-linkedin-yty {
+  width: 7.5rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 46.9rem;
+  top: 14.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lastest-blog-ytR .footer-page-hed .vscode-icons-file-type-outlook-hKB {
+  width: 5.627rem;
+  height: 5.8625rem;
+  position: absolute;
+  left: 67.4373rem;
+  top: 15.0188rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lastest-blog-ytR .footer-page-hed .devicon-twitter-QzH {
+  width: 6.4rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 66rem;
+  top: 13.3rem;
+  overflow: hidden;
+}
+.lastest-blog-ytR .footer-page-hed .vector-YKo {
+  width: 6.2165rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 82.0935rem;
+  top: 14.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lastest-blog-ytR .footer-page-hed .vector-5Kj {
+  width: 6.1545rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 99.1674rem;
+  top: 14.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lastest-blog-ytR .footer-page-hed .outlook-Qso {
+  width: 7.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 65.6rem;
+  top: 21.1rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lastest-blog-ytR .footer-page-hed .twitter-XSd {
+  width: 7.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 81.8rem;
+  top: 20.6rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lastest-blog-ytR .footer-page-hed .github-F7j {
+  width: 6.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 99.2rem;
+  top: 20.6rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lastest-blog-ytR .footer-page-hed .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-MgZ {
+  width: 77.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 7.4rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.lastest-blog-ytR .footer-page-hed .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-MgZ .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-MgZ-sub-0 {
+}
+.lastest-blog-ytR .footer-page-hed .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-MgZ .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-MgZ-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lastest-blog-ytR .footer-page-hed .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-MgZ .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-MgZ-sub-2 {
+}
+.lastest-blog-ytR .footer-page-hed .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-MgZ .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-MgZ-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lastest-blog-ytR .footer-page-hed .engplaubertgmailcom-NEH {
+  width: 29.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 10.2rem;
+  top: 28.9rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lastest-blog-ytR .footer-page-hed .item-250783881477-fz5 {
+  width: 20.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 75rem;
+  top: 28.3rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lastest-blog-ytR .footer-page-hed .plaubert-all-rights-reserved-m1X {
+  width: 44.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 42.7rem;
+  top: 33.6rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lastest-blog-ytR .footer-page-hed .ic-round-home-Tuw {
+  width: 4.2rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 130.5rem;
+  top: 27.5rem;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.lastest-blog-ytR .footer-page-hed .vector-zus {
+  width: 3.1964rem;
+  height: 2.5676rem;
+  position: absolute;
+  left: 130.0393rem;
+  top: 28rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lastest-blog-ytR .footer-page-hed .ion-call-sharp-8WH {
+  width: 3.6rem;
+  height: 3.9124rem;
+  position: absolute;
+  left: 71.1rem;
+  top: 27.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lastest-blog-ytR .footer-page-hed .mdi-email-4eq {
+  width: 4.3rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 5.6rem;
+  top: 27.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lastest-blog-ytR .footer-page-hed .my-brand-buf {
+  width: 19.6rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 16.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y {
+  box-sizing: border-box;
+  padding: 7.4rem 0rem 2.8rem 0rem;
+  width: 150rem;
+  height: 39.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq {
+  margin-bottom: 1.4rem;
+  box-sizing: border-box;
+  padding: 0rem 5.7rem 0rem 1.1rem;
+  width: 100%;
+  height: 24.8rem;
+  display: flex;
+  align-items: flex-end;
+  border: solid 0.4rem #34b759;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj {
+  margin: 0rem 4.067rem 0.3rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-dUy {
+  margin-bottom: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-dUy .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-dUy-sub-0 {
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-dUy .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-dUy-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-dUy .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-dUy-sub-2 {
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-dUy .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-dUy-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH {
+  margin: 0rem 0rem 3.7rem 0.5rem;
+  height: 10.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH .auto-group-qams-egu {
+  box-sizing: border-box;
+  padding: 0.8rem 11.2rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH .auto-group-qams-egu .my-brand-PPb {
+  margin: 0.1rem 24.7rem 0rem 0rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH .auto-group-qams-egu .auto-group-bo3r-hQH {
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH .auto-group-qams-egu .auto-group-bo3r-hQH .skill-icons-linkedin-FRo {
+  width: 7.5rem;
+  height: 6.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH .auto-group-qams-egu .auto-group-bo3r-hQH .linkedin-Aof {
+  margin-right: 0.2rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH .auto-group-qams-egu .auto-group-bo3r-hQH .linkedin-Aof .linkedin-Aof-sub-0 {
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH .auto-group-qams-egu .auto-group-bo3r-hQH .linkedin-Aof .linkedin-Aof-sub-1 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #0072c6;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH .auto-group-ogny-mBB {
+  margin-right: 8.3rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH .auto-group-ogny-mBB .auto-group-oyss-Vcy {
+  margin: 0rem 0.036rem 0.219rem 0rem;
+  width: 7.0643rem;
+  height: 7.5813rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH .auto-group-ogny-mBB .outlook-1LR {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH .auto-group-rsc8-wjs {
+  margin: 0.8rem 0rem 0.5rem 0rem;
+  height: calc(100% - 1.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH .auto-group-rsc8-wjs .vector-UE1 {
+  margin-right: 0.3965rem;
+  width: 6.2165rem;
+  height: 6.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-kkeu-XcH .auto-group-rsc8-wjs .twitter-Cfo {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-zjty-8ZT {
+  margin-left: 4.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-zjty-8ZT .mdi-email-UdK {
+  margin: 0rem 0.3rem 0.5rem 0rem;
+  width: 4.3rem;
+  height: 4.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-zjty-8ZT .engplaubertgmailcom-CZK {
+  margin: 1.6rem 31.2rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-zjty-8ZT .ion-call-sharp-7RP {
+  margin: 0rem 0.3rem 0.688rem 0rem;
+  width: 3.6rem;
+  height: 3.9124rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-cuqe-7Fj .auto-group-zjty-8ZT .item-250783881477-Rgy {
+  margin-top: 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-xti4-YFo {
+  margin: 7.4rem 23.939rem 9.1rem 0rem;
+  height: calc(100% - 16.5rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-xti4-YFo .vector-GSh {
+  margin-bottom: 0.5rem;
+  width: 6.1545rem;
+  height: 5.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-xti4-YFo .github-Cr9 {
+  margin-left: 0.0326rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .auto-group-v1ug-LBf {
+  margin-bottom: 1rem;
+  width: 4.6607rem;
+  height: 3.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .auto-group-baq4-okq .rwanda-fUq {
+  margin-bottom: 1.1rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lastest-blog-ytR .footer-page-hed .footer-page-K4y .plaubert-all-rights-reserved-xTw {
+  margin-right: 20.3rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

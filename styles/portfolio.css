@@ -1,0 +1,269 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.portfolio-W3f {
+  width: 100%;
+  height: 102.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.portfolio-W3f .myportfolio-3JV {
+  width: 100%;
+  height: 100.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-ghyn-n1B {
+  margin-bottom: 1.3rem;
+  box-sizing: border-box;
+  padding: 2.3rem 15rem 21rem 9.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/programmer-76338121280-1-bg.png');
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-ghyn-n1B .navbar-61s {
+  margin-bottom: 17.5rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-ghyn-n1B .navbar-61s .my-brand-ENy {
+  margin-right: 35.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-ghyn-n1B .navbar-61s .home-MiV {
+  margin: 0.3rem 5.9rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-ghyn-n1B .navbar-61s .about-me-FYy {
+  margin-right: 5.9rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #f5f5f5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-ghyn-n1B .navbar-61s .portfolio-mXK {
+  margin-right: 5.9rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-ghyn-n1B .navbar-61s .contact-me-hfs {
+  margin-right: 5.9rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-ghyn-n1B .navbar-61s .login-dZX {
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-ghyn-n1B .my-portfolio-yNV {
+  margin-left: 11.9rem;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .my-project-GMb {
+  margin: 0rem 0rem 1.2rem 9.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-pfnc-PBK {
+  margin: 0rem 10.4rem 0rem 8.7rem;
+  width: calc(100% - 19.1rem);
+  height: 40.8rem;
+  display: flex;
+  column-gap: 4.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-pfnc-PBK .auto-group-ahec-ssB {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 8.7rem 0rem;
+  width: 38.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #f5f5f5;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-pfnc-PBK .auto-group-ahec-ssB .senti-1-PqX {
+  margin-bottom: 2.4rem;
+  width: 38.7rem;
+  height: 16rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-pfnc-PBK .auto-group-ahec-ssB .covid-vaccine-sentiment-analysis-8HK {
+  margin: 0rem 0rem 3.8rem 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-pfnc-PBK .auto-group-ahec-ssB .this-project-conducts-sentiment-analysis-on-unstructured-text-data-using-pretrained-models-from-hugging-face-for-text-classification-dzm {
+  margin-left: 3.1rem;
+  max-width: 30.2rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-pfnc-PBK .auto-group-nzuc-e9B {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 6.4rem 0rem;
+  width: 38.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #f5f5f5;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-pfnc-PBK .auto-group-nzuc-e9B .sepsi-1-1-9bj {
+  margin-bottom: 0.8rem;
+  width: 38.7rem;
+  height: 18rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-pfnc-PBK .auto-group-nzuc-e9B .building-apis-for-machine-learning-applications-with-fastapi-3x1 {
+  margin: 0rem 0.7rem 3.8rem 0rem;
+  max-width: 27.6rem;
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-pfnc-PBK .auto-group-nzuc-e9B .this-project-required-creating-a-machine-learning-back-end-using-the-fastapi-framework-that-can-be-integrated-with-a-front-end-8Tf {
+  margin-left: 0.8rem;
+  max-width: 29.1rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-pfnc-PBK .auto-group-nsyq-97s {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 4.1rem 0rem;
+  width: 38.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #ffffff;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-pfnc-PBK .auto-group-nsyq-97s .opp2-1-1-fM7 {
+  margin-bottom: 1.3rem;
+  width: 38.7rem;
+  height: 18rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-pfnc-PBK .auto-group-nsyq-97s .building-ml-model-and-embedding-it-in-gradio-app-customer-churningprediction-oCR {
+  margin: 0rem 0rem 1.7rem 1.7rem;
+  max-width: 30.8rem;
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.portfolio-W3f .myportfolio-3JV .auto-group-pfnc-PBK .auto-group-nsyq-97s .this-project-creates-interactive-machine-learning-ml-web-applications-using-streamlit-and-gradio-frameworks-for-users-to-interact-with-ml-models-GLu {
+  margin-left: 1.7rem;
+  max-width: 30.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}

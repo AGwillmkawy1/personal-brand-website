@@ -1,0 +1,655 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 150rem;
+}.blog-FC9 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.blog-FC9 .auto-group-axyq-oDf {
+  box-sizing: border-box;
+  padding: 3.2rem 14.1rem 9.4rem 12.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .navbar-irR {
+  margin: 0rem 0rem 4.3rem 3.9rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .navbar-irR .my-brand-F5f {
+  margin-right: 35.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .navbar-irR .home-xEy {
+  margin: 0.3rem 5.9rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .navbar-irR .about-me-Fzm {
+  margin-right: 5.9rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #f5f5f5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .navbar-irR .portfolio-nUu {
+  margin-right: 5.9rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .navbar-irR .contact-me-Wvh {
+  margin-right: 5.9rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .navbar-irR .login-3fj {
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-nguj-9Cy {
+  margin-bottom: 3.4rem;
+  width: 123.4rem;
+  height: 27.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-nguj-9Cy .rectangle-9-GHb {
+  width: 123.4rem;
+  height: 27.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-nguj-9Cy .an-advanced-bash-scripting-guide-to-learn-how-to-master-functions-and-libraries-to-ensure-code-reusability-and-organization-zjP {
+  width: 63.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 20.4rem;
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-nguj-9Cy .by-milagros-ribas-january-3-2024-dnM {
+  width: 36rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 84.4rem;
+  top: 25.4rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-nguj-9Cy .advanced-bash-scripting-mastering-functions-and-libraries-vFf {
+  width: 46.9rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 12.3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-nguj-9Cy .for-developers-DEm {
+  width: 14.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 6.7rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-nguj-9Cy .by-milagros-ribas-january-3-2024-Wjf {
+  width: 36rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 83rem;
+  top: 24.6rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-smqx-DPB {
+  margin-bottom: 4.4rem;
+  width: 100%;
+  height: 23rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-smqx-DPB .rectangle-10-ktu {
+  width: 123.6rem;
+  height: 22.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d9d9d9;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-smqx-DPB .for-developers-elevating-excellence-an-insight-into-developers-wel-explore-how-turing-prioritizes-and-ensures-developers-well-being-changing-tech-landscape-addressing-challenges-such-as-software-engineers-burnout-lets-dive--6Sy {
+  width: 54.1rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 53.4rem;
+  top: 1.9rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-smqx-DPB .for-developers-elevating-excellence-an-insight-into-developers-wel-explore-how-turing-prioritizes-and-ensures-developers-well-being-changing-tech-landscape-addressing-challenges-such-as-software-engineers-burnout-lets-dive--6Sy .for-developers-elevating-excellence-an-insight-into-developers-wel-explore-how-turing-prioritizes-and-ensures-developers-well-being-changing-tech-landscape-addressing-challenges-such-as-software-engineers-burnout-lets-dive--6Sy-sub-0 {
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-smqx-DPB .for-developers-elevating-excellence-an-insight-into-developers-wel-explore-how-turing-prioritizes-and-ensures-developers-well-being-changing-tech-landscape-addressing-challenges-such-as-software-engineers-burnout-lets-dive--6Sy .for-developers-elevating-excellence-an-insight-into-developers-wel-explore-how-turing-prioritizes-and-ensures-developers-well-being-changing-tech-landscape-addressing-challenges-such-as-software-engineers-burnout-lets-dive--6Sy-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-smqx-DPB .software-engineer-well-being-768x360-1-vD3 {
+  width: 51rem;
+  height: 23rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-smqx-DPB .by-disha-prakash-january-2-2024-q57 {
+  width: 35.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 84.6rem;
+  top: 20.1rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 {
+  height: 28.2rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-yiui-GAR {
+  margin-right: 3.6rem;
+  box-sizing: border-box;
+  padding-bottom: 1.3rem;
+  width: 38.6rem;
+  border: solid 0.2rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-yiui-GAR .hero-wordpress-320x150-1-neZ {
+  margin-bottom: 1.5rem;
+  width: 38.6rem;
+  height: 14rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-yiui-GAR .turings-remarkable-journey-shaping-2024-together-join-turings-incredible-journey-as-we-reshape-innovation-by-disha-december-28-2023-Jso {
+  margin-left: 1.8rem;
+  max-width: 30rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-yiui-GAR .turings-remarkable-journey-shaping-2024-together-join-turings-incredible-journey-as-we-reshape-innovation-by-disha-december-28-2023-Jso .turings-remarkable-journey-shaping-2024-together-join-turings-incredible-journey-as-we-reshape-innovation-by-disha-december-28-2023-Jso-sub-0 {
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-yiui-GAR .turings-remarkable-journey-shaping-2024-together-join-turings-incredible-journey-as-we-reshape-innovation-by-disha-december-28-2023-Jso .turings-remarkable-journey-shaping-2024-together-join-turings-incredible-journey-as-we-reshape-innovation-by-disha-december-28-2023-Jso-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-yiui-GAR .turings-remarkable-journey-shaping-2024-together-join-turings-incredible-journey-as-we-reshape-innovation-by-disha-december-28-2023-Jso .turings-remarkable-journey-shaping-2024-together-join-turings-incredible-journey-as-we-reshape-innovation-by-disha-december-28-2023-Jso-sub-2 {
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-urfe-uFK {
+  margin-right: 3.7rem;
+  width: 38.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-urfe-uFK .rectangle-12-eCu {
+  width: 38.3rem;
+  height: 28rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-urfe-uFK .a-coding-campanion-genrative-ai-for-developers-generative-ai-helps-for-developers-with-routine-coding-tasks-by-disha-december-22-2023-8tm {
+  width: 30rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 15.9rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-urfe-uFK .a-coding-campanion-genrative-ai-for-developers-generative-ai-helps-for-developers-with-routine-coding-tasks-by-disha-december-22-2023-8tm .a-coding-campanion-genrative-ai-for-developers-generative-ai-helps-for-developers-with-routine-coding-tasks-by-disha-december-22-2023-8tm-sub-0 {
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-urfe-uFK .a-coding-campanion-genrative-ai-for-developers-generative-ai-helps-for-developers-with-routine-coding-tasks-by-disha-december-22-2023-8tm .a-coding-campanion-genrative-ai-for-developers-generative-ai-helps-for-developers-with-routine-coding-tasks-by-disha-december-22-2023-8tm-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-urfe-uFK .a-coding-campanion-genrative-ai-for-developers-generative-ai-helps-for-developers-with-routine-coding-tasks-by-disha-december-22-2023-8tm .a-coding-campanion-genrative-ai-for-developers-generative-ai-helps-for-developers-with-routine-coding-tasks-by-disha-december-22-2023-8tm-sub-2 {
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-urfe-uFK .generative-ai-for-developers-320x150-1-1LH {
+  width: 38.8rem;
+  height: 13.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-fpfa-jGH {
+  width: 38.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-fpfa-jGH .rectangle-13-UUm {
+  width: 38.7rem;
+  height: 28rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-fpfa-jGH .tech-trend-in-2023-a-round-up-2023-saw-a-range-of-game-changing-tech-trends-by-sanika-december-22-2023-Nq3 {
+  width: 32.2rem;
+  height: 11.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 16.7rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-fpfa-jGH .tech-trend-in-2023-a-round-up-2023-saw-a-range-of-game-changing-tech-trends-by-sanika-december-22-2023-Nq3 .tech-trend-in-2023-a-round-up-2023-saw-a-range-of-game-changing-tech-trends-by-sanika-december-22-2023-Nq3-sub-0 {
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-fpfa-jGH .tech-trend-in-2023-a-round-up-2023-saw-a-range-of-game-changing-tech-trends-by-sanika-december-22-2023-Nq3 .tech-trend-in-2023-a-round-up-2023-saw-a-range-of-game-changing-tech-trends-by-sanika-december-22-2023-Nq3-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-fpfa-jGH .tech-trend-in-2023-a-round-up-2023-saw-a-range-of-game-changing-tech-trends-by-sanika-december-22-2023-Nq3 .tech-trend-in-2023-a-round-up-2023-saw-a-range-of-game-changing-tech-trends-by-sanika-december-22-2023-Nq3-sub-2 {
+}
+.blog-FC9 .auto-group-axyq-oDf .blog-PDo .auto-group-uffs-KW5 .auto-group-fpfa-jGH .tech-trends-2023-320x150-1-GZ3 {
+  width: 38.3rem;
+  height: 15rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-FC9 .footer-page-aZj {
+  box-sizing: border-box;
+  padding: 7.4rem 0rem 2.8rem 0rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw {
+  margin-bottom: 1.4rem;
+  box-sizing: border-box;
+  padding: 0rem 5.7rem 0rem 1.1rem;
+  width: 100%;
+  height: 24.8rem;
+  display: flex;
+  align-items: flex-end;
+  border: solid 0.4rem #34b759;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH {
+  margin: 0rem 4.1rem 0.3rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-1Hf {
+  margin-bottom: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-1Hf .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-1Hf-sub-0 {
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-1Hf .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-1Hf-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-1Hf .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-1Hf-sub-2 {
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-1Hf .we-work-with-clients-from-all-over-the-world-get-in-touch-with-us-1Hf-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq {
+  margin: 0rem 0rem 3.7rem 0.5rem;
+  height: 10.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq .auto-group-pjua-juo {
+  box-sizing: border-box;
+  padding: 0.8rem 11.2rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq .auto-group-pjua-juo .my-brand-UMb {
+  margin: 0.1rem 24.7rem 0rem 0rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #34b759;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq .auto-group-pjua-juo .auto-group-czyg-z53 {
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq .auto-group-pjua-juo .auto-group-czyg-z53 .skill-icons-linkedin-vzH {
+  width: 7.5rem;
+  height: 6.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq .auto-group-pjua-juo .auto-group-czyg-z53 .linkedin-TzD {
+  margin-right: 0.2rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq .auto-group-pjua-juo .auto-group-czyg-z53 .linkedin-TzD .linkedin-TzD-sub-0 {
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq .auto-group-pjua-juo .auto-group-czyg-z53 .linkedin-TzD .linkedin-TzD-sub-1 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #0072c6;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq .auto-group-rhja-pyB {
+  margin-right: 8.3rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq .auto-group-rhja-pyB .auto-group-aqet-AXF {
+  margin: 0rem 0.036rem 0.219rem 0rem;
+  width: 7.0643rem;
+  height: 7.5813rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq .auto-group-rhja-pyB .outlook-gEh {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq .auto-group-3b3r-p61 {
+  margin: 0.8rem 0rem 0.5rem 0rem;
+  height: calc(100% - 1.3rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq .auto-group-3b3r-p61 .vector-Xm7 {
+  margin-right: 0.0376rem;
+  width: 6.2624rem;
+  height: 6.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-vtk8-pnq .auto-group-3b3r-p61 .twitter-Tuf {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-dlax-oTj {
+  margin-left: 4.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-dlax-oTj .mdi-email-jsB {
+  margin: 0rem 0.3rem 0.5rem 0rem;
+  width: 4.3rem;
+  height: 4.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-dlax-oTj .engplaubertgmailcom-qfK {
+  margin: 1.6rem 31.2rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-dlax-oTj .ion-call-sharp-Ypd {
+  margin: 0rem 0.3rem 0.688rem 0rem;
+  width: 3.6rem;
+  height: 3.9124rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-x3wj-PGH .auto-group-dlax-oTj .item-250783881477-Fyw {
+  margin-top: 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-r5s4-ZUq {
+  margin: 7.4rem 24.4rem 9.1rem 0rem;
+  height: calc(100% - 16.5rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-r5s4-ZUq .vector-tGD {
+  margin-bottom: 0.5rem;
+  width: 6.2rem;
+  height: 5.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-r5s4-ZUq .github-QkM {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .auto-group-rosr-x1B {
+  margin-bottom: 1rem;
+  width: 4.2rem;
+  height: 3.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .auto-group-ztf6-Hyw .rwanda-gSy {
+  margin-bottom: 1.1rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-FC9 .footer-page-aZj .plaubert-all-rights-reserved-nku {
+  margin-right: 20.3rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
